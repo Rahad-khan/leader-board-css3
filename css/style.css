@@ -60,13 +60,11 @@ height: 51px;
 .players {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-r
 }
 .player img {
     width: 56px;
     height: 56px;
     margin-right: 30px;
-    mb
 }
 .player {
     display: flex;
@@ -108,7 +106,17 @@ margin: 0 auto;
  }
  .courses {
      display: flex;
-     justify-content: space-evenly;
+     justify-content: space-between;
+ }
+ .course {
+    Width:
+    252.42px;
+    Height:
+    269.79px;
+    background-color: #ffffff;
+    filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+    border-radius: 10px;
+    padding: 8px;
  }
  .course img{
     width: 224px;
